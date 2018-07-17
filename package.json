@@ -1,6 +1,6 @@
 {
   "name": "newsbooze",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool which displays top news headlines",
   "main": "index.js",
   "scripts": {
