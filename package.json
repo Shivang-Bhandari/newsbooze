@@ -10,10 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/Shivang-Bhandari/newsbooze.git"
   },
+  "bin": {
+    "newsbin": "./bin/newsbin"
+  },
   "author": "Shivang Bhandari",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shivang-Bhandari/newsbooze/issues"
   },
-  "homepage": "https://github.com/Shivang-Bhandari/newsbooze#readme"
+  "homepage": "https://github.com/Shivang-Bhandari/newsbooze#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^2.1.0"
+  }
 }
