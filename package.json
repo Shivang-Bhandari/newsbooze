@@ -1,0 +1,19 @@
+{
+  "name": "newsbooze",
+  "version": "1.0.0",
+  "description": "A CLI tool which displays top news headlines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivang-Bhandari/newsbooze.git"
+  },
+  "author": "Shivang Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivang-Bhandari/newsbooze/issues"
+  },
+  "homepage": "https://github.com/Shivang-Bhandari/newsbooze#readme"
+}
