@@ -15,7 +15,7 @@ This package is published at https://www.npmjs.com/package/newsbooze
 * Run the command `newsbooze [option]` for Displaying the news on the terminal by a source of your choice.
 
 #### Options 
-* `techctunch` : Tech Crunch
+* `techcrunch` : Tech Crunch
 * `toi` : Times of India
 
 ## License
